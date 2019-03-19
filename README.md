@@ -1,2 +1,2 @@
 # sprint1-project
-first project from basic
+first project from basic class
